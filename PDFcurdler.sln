@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFcurdler", "TextAndImagesExtractor\PDFcurdler.csproj", "{36155B2D-407C-4561-869C-989594A79B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataExtractor", "DataExtractor\DataExtractor.csproj", "{8DB2EE9B-D6FD-410F-826F-8D8A49CD7BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{145793DD-B4C0-4192-8F1B-286B734BE9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36155B2D-407C-4561-869C-989594A79B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36155B2D-407C-4561-869C-989594A79B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36155B2D-407C-4561-869C-989594A79B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36155B2D-407C-4561-869C-989594A79B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB2EE9B-D6FD-410F-826F-8D8A49CD7BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB2EE9B-D6FD-410F-826F-8D8A49CD7BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB2EE9B-D6FD-410F-826F-8D8A49CD7BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB2EE9B-D6FD-410F-826F-8D8A49CD7BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145793DD-B4C0-4192-8F1B-286B734BE9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145793DD-B4C0-4192-8F1B-286B734BE9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145793DD-B4C0-4192-8F1B-286B734BE9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145793DD-B4C0-4192-8F1B-286B734BE9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
